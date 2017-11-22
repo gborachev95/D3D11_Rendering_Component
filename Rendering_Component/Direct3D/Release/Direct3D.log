@@ -1,0 +1,27 @@
+﻿  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\INSTANCING_VS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\INSTANCING_VS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\NORMALMAPPED_OBJ_PS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\NORMALMAPPED_OBJ_PS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\NORMALMAPPED_OBJ_VS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\NORMALMAPPED_OBJ_VS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\OBJECT_PS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\OBJECT_PS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\OBJECT_VS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\OBJECT_VS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\POST_PS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\POST_PS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\POST_VS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\POST_VS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\Trivial_PS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\Trivial_PS.cso
+  compilation header save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Direct3D\Trivial_VS.csh
+  compilation object save succeeded; see F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\Trivial_VS.cso
+  DDSTextureLoader.cpp
+  main.cpp
+main.cpp(463): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  Object.cpp
+  XTime.cpp
+  Generating code
+  All 627 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Direct3D.vcxproj -> F:\FullSail\19.Graphics 2\Final Graphics\Graphics-2-Project\Release\Direct3D.exe
